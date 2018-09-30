@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plot_number: 1
+  size: 1.5
+  dimensions: MyString
+  total_cost: 1
+  direction: MyString
+  price_fixed: 1
+  price_sold: 1
+  customer_id: 1
+  project_id: 1
+  status: MyString
+
+two:
+  plot_number: 1
+  size: 1.5
+  dimensions: MyString
+  total_cost: 1
+  direction: MyString
+  price_fixed: 1
+  price_sold: 1
+  customer_id: 1
+  project_id: 1
+  status: MyString

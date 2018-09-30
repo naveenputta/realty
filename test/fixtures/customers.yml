@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  primary_phone_number: 
+  secondary_phone_number: 1
+  address: MyString
+  age: 1
+  father_name: MyString
+  designation: MyString
+  company: MyString
+  referred_employee: 
+  referred_customer: 
+
+two:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  primary_phone_number: 
+  secondary_phone_number: 1
+  address: MyString
+  age: 1
+  father_name: MyString
+  designation: MyString
+  company: MyString
+  referred_employee: 
+  referred_customer: 

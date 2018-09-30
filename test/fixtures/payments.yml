@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount_paid: 1
+  customer_id: 1
+  plot_id: 1
+  balance_amount: 1
+  total_amount: 1
+
+two:
+  amount_paid: 1
+  customer_id: 1
+  plot_id: 1
+  balance_amount: 1
+  total_amount: 1
